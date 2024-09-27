@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Guia de Motéis",
+    "imageSrc": "landingPage/note1.png",
+    "description": "Plataforma digital que facilita a busca e reserva de motéis, especialmente em Goiás, mas que também oferece serviços em diversas outras regiões do Brasil, garantindo uma cobertura abrangente.",
+    "skills": ["figma"],
+    "demo": "https://www.behance.net/gallery/202894573/GUIA-DE-MOTEIS-GO-Landing-Page-Redesign-UI"
+    
+  },
+  {
+    "title": "Plataforma Digital",
+    "imageSrc": "landingPage/note2.png",
+    "description": "Nossa plataforma digital facilita a busca, a conexão e a interação entre jogos e jogadores de todo o mundo, oferecendo uma experiência intuitiva e ferramentas avançadas para unir a comunidade gamer.",
+    "skills": ["figma"],
+    "demo": "https://www.behance.net/gallery/202971307/COMMUNITY-GAMERS-Landing-Page-UI"
+    
+  },
+  {
+    "title": "Cervejaria Meireles",
+    "imageSrc": "landingPage/note3.png",
+    "description": "Cervejaria Meireles foi um projeto de UI Design, focado no aprendizado de prototipagem no Figma.",
+    "skills": ["figma"],
+    "demo": "https://www.behance.net/gallery/198123351/Cervejaria-Meireles"
+   
+  },
+  {
+    
+    "title": "Bichinhos da T.I",
+    "imageSrc": "landingPage/note4.png",
+    "description": "Estamos criando um projeto para incentivar a troca de conhecimentos, onde iniciantes podem compartilhar suas ideias em uma plataforma de artigos. O objetivo é atrair mais pessoas para a comunidade de desenvolvimento, facilitando o aprendizado. ",
+    "skills": ["figma"],
+    "demo": "https://www.behance.net/gallery/190675319/Bichinhos-da-TI"
+    
+    
+  }
+  
+]
