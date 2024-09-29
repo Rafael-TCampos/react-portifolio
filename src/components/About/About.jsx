@@ -13,7 +13,7 @@ export const About = () => {
           alt="foto perfil"
           className={styles.aboutImage}
         />
-        <div className={styles.Text}>
+        <div className={styles.text}>
           <p>
             Olá, sou Willian Meireles, apaixonado por Product Design e
             desenvolvimento de software. Resido em Praia Grande, São Paulo,

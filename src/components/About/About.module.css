@@ -13,7 +13,7 @@
 
 .title {
   color: var(--color-text2);
-  font-size: 35px;
+  font-size: 40px;
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
@@ -29,12 +29,13 @@
   
 }
 
-.Text {
+.text {
   color: var(--color-text);
   margin-left: 20px;
   display: flex;
   align-items: center;
   line-height: 20px;
+  font-size: 16px;
 }
 
 @media screen and (max-width: 830px){
@@ -48,5 +49,9 @@
   }
   .aboutImage {
     display: none;
+  }
+  .text {
+    font-size: 20px;
+    line-height: 25px;
   }
 }

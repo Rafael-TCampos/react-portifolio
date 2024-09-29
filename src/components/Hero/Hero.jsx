@@ -15,7 +15,7 @@ export const Hero = () => {
           significativas para os usuários, focando em interfaces intuitivas e
           atraentes.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>Contato</a>
+        <a href="https://www.behance.net/Willian_meireles" className={styles.contactBtn}>Contato</a>
       </div>
       <img src={getImageUrl("hero/heroImage.png")} alt="minha foto" className={styles.heroImg}/>
       <div className={styles.topBlur}/>
